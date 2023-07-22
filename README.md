@@ -24,18 +24,18 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharindugunawardhana99=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharindugunawardhana99&theme=dark">
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharindugunawardhana99=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharindugunawardhana99&theme=dark">
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindugunawardhana99=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindugunawardhana99&theme=dark">
   </span>
   <br/>
   <br/>
   <div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugunawardhana99=dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugunawardhana99&theme=dark">
     </div>
    <br/>
     <div>
