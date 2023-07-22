@@ -24,22 +24,22 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharindu99=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharindugunawardhana99=dark">
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharindu99=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharindugunawardhana99=dark">
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tharindu99=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindugunawardhana99=dark">
   </span>
   <br/>
   <br/>
   <div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu99=dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugunawardhana99=dark">
     </div>
    <br/>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tharindu99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+      <img src="https://github-readme-stats.vercel.app/api?username=tharindugunawardhana99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
     </div>
   </div>
 
