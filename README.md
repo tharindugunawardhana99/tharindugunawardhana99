@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate at University of Colombo School of Computing.</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Competitive+Programmer;Passionate+about+innovative+IT+solutions">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Undergraduate;Competitive+Programmer;Passionate+about+innovative+IT+solutions">
   </a>
 </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> -->
