@@ -11,9 +11,10 @@
 
 
 
-- 🤝 I’m looking for **Software Engineer Intern**
+- 🤝 I’m a **Software Engineer Intern**
 - 👨‍💻 All of my projects are available at [https://github.com/tharindugunawardhana99](https://github.com/tharindugunawardhana99)
 - 📫 How to reach me **tharindugunawardhana99@gmail.com**
+- 💼 Here is my portfolio **https://tharindugunawardhana99.github.io/my_portfolio/**
 
 
 <h3 align="left">Connect with me:</h3>
